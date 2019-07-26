@@ -6,6 +6,10 @@ class Test
         System.out.println("Hello world Test");
         System.out.println("Hello world");
          System.out.println("Hello Dilini");
+	System.out.println("HwwwwwwwwwwwwTest");
+        System.out.println("Hsssssd");
     }
+	
+
 
 }
